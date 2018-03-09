@@ -1,5 +1,5 @@
 baseURL = "https://alexlorz.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Alex New Hugo Site"
+title = "Alex New Hugo Site 1"
 theme = "ananke"
